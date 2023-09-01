@@ -13,4 +13,4 @@
 ## My Projects
 | Projects | link | date |
 |---|---|---|
-|Data Analysts Asso Project|---|Apr 2023|
+|Data Analysts Asso Project|[Project Link](https://github.com/kelvincsw/Kelvin_business_analytics/blob/main/python001.ipynb)|Apr 2023|
