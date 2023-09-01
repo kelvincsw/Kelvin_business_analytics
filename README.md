@@ -5,7 +5,12 @@
 * Currently learning Python and R for baisc data analytics and EDA, as well as modelling including linear, logistic and KNN etc.
 * This repo is to showcase all the data analytics projects I did in the past.
 
-## my skills
+## my Skills
 * Advanced excel (VBA, regression modeling)
 * Python (EDA, Machine learning, Visualization - seaborn)
 * R (basic linear modeling, aggegration)
+
+## My Projects
+| Projects | link | date |
+|---|---|---|
+|Data Analysts Asso Project|---|Apr 2023|
