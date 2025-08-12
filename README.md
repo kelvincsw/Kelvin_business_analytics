@@ -15,3 +15,4 @@
 |---|---|---|---|
 |Data Analysts Asso Project|Python|[Project Link](https://github.com/kelvincsw/Kelvin_business_analytics/blob/main/python001.ipynb)|Apr 2023|
 |Tableau Dashboard|Tableau|[Dashboard Link](https://public.tableau.com/views/Fastfoodcodashboard/productxmap?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)|Jul 2025|
+|PowerBI Dashboard|PowerBI|[Dashboard Link](TBA)|Jul 2025|
