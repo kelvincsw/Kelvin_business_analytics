@@ -11,6 +11,7 @@
 * R (basic linear modeling, aggegration)
 
 ## My Projects
-| Projects | link | date |
-|---|---|---|
-|Data Analysts Asso Project|[Project Link](https://github.com/kelvincsw/Kelvin_business_analytics/blob/main/python001.ipynb)|Apr 2023|
+| Projects | Type | link | date |
+|---|---|---|---|
+|Data Analysts Asso Project|Python|[Project Link](https://github.com/kelvincsw/Kelvin_business_analytics/blob/main/python001.ipynb)|Apr 2023|
+|Tableau Dashboard|Tableau|TBA|Oct 2023|
